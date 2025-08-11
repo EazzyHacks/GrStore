@@ -144,7 +144,7 @@ async function logEvent(
 ) {
   console.log(
     chalk.bold.red(
-      '━━━━━━━━━━ Zenitsu Bot: ¡Ay no, otro evento! ━━━━━━━━━━'
+      '━━━━━━━━━━ Gx Bot: ¡Ay no, otro evento! ━━━━━━━━━━'
     ) +
       '\n' +
       chalk.blue('│⏰ Hora del miedo: ') +
