@@ -2,14 +2,14 @@ const fs = require('fs');
 const path = require('path');
 const chalk = require('chalk');
 
-global.owner = "5355699866";
-global.botname = "Zenitsu-Bot";
+global.owner = "51936994155";
+global.botname = "Gx-Bot";
 global.place = 'America/Managua';
 global.prefix = ['.'];
 
 // IDs tal como los definiste
-global.ownerid  = ["5355699866@s.whatsapp.net"];
-global.ownerlid = ["261271484104740@lid"];
+global.ownerid  = ["51936994155@s.whatsapp.net"];
+global.ownerlid = ["222265178386528@lid"];
 
 // 🚀 Genera un array unificado que incluya todas las formas
 global.allOwners = Array.from(new Set([
