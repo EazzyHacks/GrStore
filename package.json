@@ -1,7 +1,7 @@
 {
-  "name": "Zenitsu-Bot",
+  "name": "Gx-Bot",
   "version": "1.0.0",
-  "description": "Zenitsu-Bot",
+  "description": "Gx-Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
