@@ -17,12 +17,12 @@ async function startBot() {
     console.clear();
     figlet('ZenitsuBot', (err, data) => {
         if (err) {
-            console.log(chalk.red('⚠️ Zenitsu se tropezó generando el banner...'));
+            console.log(chalk.red('⚠️ Gx se tropezó generando el banner...'));
             console.log(err);
             return;
         }
         console.log(chalk.yellowBright(data));
-        console.log(chalk.magentaBright('\n😳 Zenitsu está preparando todo... ¡No lo presiones!'));
+        console.log(chalk.magentaBright('\n😳 Gx está preparando todo... ¡No lo presiones!'));
     });
 
     await new Promise(resolve => setTimeout(resolve, 2000));
